@@ -1,0 +1,54 @@
+/* Reset default spacing */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Main heading */
+h1 {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Navigation bar */
+nav {
+    background-color: #555;
+    padding: 10px;
+}
+
+/* Navigation links */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+/* Hover effect */
+nav a:hover {
+    color: #ffcc00;
+}
+
+/* Section heading */
+h2 {
+    margin-top: 30px;
+    color: #333;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Container (optional for better alignment) */
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}

@@ -1,0 +1,54 @@
+/* Reset default spacing */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+/* Main heading */
+h1 {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Navigation bar */
+nav {
+    background-color: #555;
+    padding: 10px;
+}
+
+/* Navigation links */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+/* Hover effect */
+nav a:hover {
+    color: #ffcc00;
+}
+
+/* Skills list */
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 30px;
+}
+
+/* Each skill item */
+li {
+    background-color: white;
+    width: 60%;
+    margin: 10px auto;
+    padding: 12px;
+    font-size: 18px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    color: #333;
+}
